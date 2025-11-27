@@ -5,13 +5,13 @@ Here’s a more detailed `README.md` you can drop straight into your repo (it as
 ````markdown
 # MedScreenSeeker: Atomic GUI Grounding in Medical Imaging Software
 
-This repository accompanies the project **“MedScreenSeeker: Evaluating Vision–Language Models for Atomic GUI Grounding in Medical Imaging Software.”**
+This repository accompanies the project “MedScreenSeeker: Evaluating Vision–Language Models for Atomic GUI Grounding in Medical Imaging Software.”
 
 The repo contains:
 
-- A **small sample** of the atomic GUI grounding benchmark for medical viewers (subset of the full dataset used in the paper).
-- A **ShowUI inference script** that runs a GUI grounding model on the dataset and saves predictions + visual overlays.
-- An **evaluation script** that computes mIoU, Acc@τ, and Task Completion@τ given ground-truth annotations and predictions.
+- A small sample of the atomic GUI grounding benchmark for medical viewers (subset of the full dataset used in the paper).
+- A ShowUI inference script that runs a GUI grounding model on the dataset and saves predictions + visual overlays.
+- An evaluation script that computes mIoU, Acc@τ, and Task Completion@τ given ground-truth annotations and predictions.
 
 The code is intentionally lightweight so that you can easily plug in new tools or models.
 
