@@ -1,0 +1,92 @@
+{
+  "task_name": "4",
+  "task_query": "Open Slice controllers Section",
+  "dataset_root": "C:/Users/DELL/OneDrive/Desktop/Papers/MBZUAI Collaboration (Ufaq Appi)/Tasks",
+  "updated_at": "2025-11-24T06:23:58Z",
+  "images": [
+    {
+      "file_name": "1.png",
+      "width": 1918,
+      "height": 1020,
+      "step_index": 1,
+      "instruction": "1. Click the “Welcome to Slicer” dropdown from toolbar.",
+      "bboxes": [
+        {
+          "id": 1,
+          "label": "object",
+          "bbox": [
+            236.00390625,
+            44.953125,
+            234.130859375,
+            50.572265625
+          ]
+        }
+      ]
+    },
+    {
+      "file_name": "2.png",
+      "width": 1919,
+      "height": 1016,
+      "step_index": 2,
+      "instruction": "2. Select view Controller.",
+      "bboxes": [
+        {
+          "id": 1,
+          "label": "object",
+          "bbox": [
+            239.87500000000003,
+            271.7333984375,
+            228.63085937500003,
+            35.6064453125
+          ]
+        }
+      ]
+    },
+    {
+      "file_name": "3.png",
+      "width": 1919,
+      "height": 1026,
+      "step_index": 3,
+      "instruction": "3. Click Slice Controller from the Module panel.",
+      "bboxes": [
+        {
+          "id": 1,
+          "label": "object",
+          "bbox": [
+            1.8740234375000002,
+            224.88281250000003,
+            509.73437500000006,
+            37.48046874999997
+          ]
+        }
+      ]
+    },
+    {
+      "file_name": "4.png",
+      "width": 1919,
+      "height": 977,
+      "step_index": 4,
+      "instruction": "",
+      "bboxes": [
+        {
+          "id": 1,
+          "label": "object",
+          "bbox": [
+            1.8740234375000002,
+            226.75683593750003,
+            511.6083984375,
+            234.25292968750003
+          ]
+        }
+      ]
+    },
+    {
+      "file_name": "5.png",
+      "width": 1919,
+      "height": 977,
+      "step_index": 5,
+      "instruction": "",
+      "bboxes": []
+    }
+  ]
+}

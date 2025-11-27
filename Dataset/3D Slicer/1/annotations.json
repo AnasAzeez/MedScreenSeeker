@@ -1,0 +1,65 @@
+{
+  "task_name": "1",
+  "task_query": "Pin a view",
+  "dataset_root": "C:/Users/DELL/OneDrive/Desktop/Papers/MBZUAI Collaboration (Ufaq Appi)/Tasks",
+  "updated_at": "2025-11-24T06:20:39Z",
+  "images": [
+    {
+      "file_name": "1.png",
+      "width": 1918,
+      "height": 1021,
+      "step_index": 1,
+      "instruction": "1. Click the “Welcome to Slicer” dropdown from toolbar.",
+      "bboxes": [
+        {
+          "id": 1,
+          "label": "object",
+          "bbox": [
+            234.130859375,
+            52.4453125,
+            230.384765625,
+            39.333984375
+          ]
+        }
+      ]
+    },
+    {
+      "file_name": "2.png",
+      "width": 1918,
+      "height": 1017,
+      "step_index": 2,
+      "instruction": "2. Click Segment Editor.",
+      "bboxes": [
+        {
+          "id": 1,
+          "label": "object",
+          "bbox": [
+            245.369140625,
+            202.2890625,
+            243.49609375,
+            31.841796875
+          ]
+        }
+      ]
+    },
+    {
+      "file_name": "3.png",
+      "width": 1918,
+      "height": 1018,
+      "step_index": 3,
+      "instruction": "3. Click the Pin icon next to the Color in a view \"R\" in the segment list.",
+      "bboxes": [
+        {
+          "id": 1,
+          "label": "object",
+          "bbox": [
+            704.265625,
+            91.779296875,
+            39.333984375,
+            35.587890625
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "task_name": "3",
+  "task_query": "Sort by Description and preview a different row",
+  "dataset_root": "C:/Users/DELL/OneDrive/Desktop/Papers/MBZUAI Collaboration (Ufaq Appi)/OHIF/SS",
+  "updated_at": "2025-11-25T06:47:04Z",
+  "images": [
+    {
+      "file_name": "1.png",
+      "width": 3024,
+      "height": 1658,
+      "step_index": 1,
+      "instruction": "1) Click Description column header",
+      "bboxes": [
+        {
+          "id": 1,
+          "label": "object",
+          "bbox": [
+            1517.90625,
+            259.875,
+            286.453125,
+            73.828125
+          ]
+        }
+      ]
+    },
+    {
+      "file_name": "2.png",
+      "width": 3024,
+      "height": 1652,
+      "step_index": 2,
+      "instruction": "2) Click Description column header again (reverse)",
+      "bboxes": [
+        {
+          "id": 1,
+          "label": "object",
+          "bbox": [
+            1514.953125,
+            259.875,
+            298.265625,
+            79.734375
+          ]
+        }
+      ]
+    },
+    {
+      "file_name": "3.png",
+      "width": 3024,
+      "height": 1658,
+      "step_index": 3,
+      "instruction": "3) Click the chevron (>) for DATSCAN1",
+      "bboxes": [
+        {
+          "id": 1,
+          "label": "object",
+          "bbox": [
+            256.921875,
+            693.984375,
+            62.015625,
+            56.109375
+          ]
+        }
+      ]
+    },
+    {
+      "file_name": "4.png",
+      "width": 3024,
+      "height": 1656,
+      "step_index": 4,
+      "instruction": "4) Click inside the expanded area",
+      "bboxes": [
+        {
+          "id": 1,
+          "label": "object",
+          "bbox": [
+            236.25,
+            758.953125,
+            2557.40625,
+            268.734375
+          ]
+        }
+      ]
+    },
+    {
+      "file_name": "5.png",
+      "width": 3024,
+      "height": 1660,
+      "step_index": 5,
+      "instruction": "5) Click the same chevron (>) to collapse",
+      "bboxes": [
+        {
+          "id": 1,
+          "label": "object",
+          "bbox": [
+            248.0625,
+            688.078125,
+            79.734375,
+            62.015625
+          ]
+        }
+      ]
+    }
+  ]
+}

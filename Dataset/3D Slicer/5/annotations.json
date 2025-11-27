@@ -1,0 +1,84 @@
+{
+  "task_name": "5",
+  "task_query": "Enable 3D volume rendering",
+  "dataset_root": "C:/Users/DELL/OneDrive/Desktop/Papers/MBZUAI Collaboration (Ufaq Appi)/Tasks",
+  "updated_at": "2025-11-24T06:24:32Z",
+  "images": [
+    {
+      "file_name": "1.png",
+      "width": 1918,
+      "height": 1020,
+      "step_index": 1,
+      "instruction": "1. Click the “Welcome to Slicer” dropdown from toolbar.",
+      "bboxes": [
+        {
+          "id": 1,
+          "label": "object",
+          "bbox": [
+            234.130859375,
+            50.572265625,
+            236.00390625,
+            41.20703125
+          ]
+        }
+      ]
+    },
+    {
+      "file_name": "2.png",
+      "width": 1919,
+      "height": 956,
+      "step_index": 2,
+      "instruction": "2. Select “Volume Rendering”.",
+      "bboxes": [
+        {
+          "id": 1,
+          "label": "object",
+          "bbox": [
+            236.12695312500003,
+            267.9853515625,
+            258.615234375,
+            37.48046875
+          ]
+        }
+      ]
+    },
+    {
+      "file_name": "3.png",
+      "width": 1919,
+      "height": 939,
+      "step_index": 3,
+      "instruction": "3. Click the eye icon left of the Volume title in the module panel.",
+      "bboxes": [
+        {
+          "id": 1,
+          "label": "object",
+          "bbox": [
+            1.8740234375000002,
+            181.78027343750003,
+            33.732421875,
+            46.8505859375
+          ]
+        }
+      ]
+    },
+    {
+      "file_name": "4.png",
+      "width": 1919,
+      "height": 991,
+      "step_index": 4,
+      "instruction": "",
+      "bboxes": [
+        {
+          "id": 1,
+          "label": "object",
+          "bbox": [
+            3.7480468750000004,
+            198.64648437500003,
+            29.984375,
+            22.48828125
+          ]
+        }
+      ]
+    }
+  ]
+}
