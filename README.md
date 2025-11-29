@@ -17,7 +17,7 @@ The code is intentionally lightweight so that you can easily plug in new tools o
 
 ---
 
-## 1. Repository structure
+ 1. Repository structure
 
 ```text
 MedScreenSeeker/
