@@ -3,7 +3,7 @@ Here’s a more detailed `README.md` you can drop straight into your repo (it as
 ---
 
 ````markdown
-# MedScreenSeeker: Atomic GUI Grounding in Medical Imaging Software
+MedScreenSeeker: Atomic GUI Grounding in Medical Imaging Software
 
 This repository accompanies the project “MedScreenSeeker: Evaluating Vision–Language Models for Atomic GUI Grounding in Medical Imaging Software.”
 
